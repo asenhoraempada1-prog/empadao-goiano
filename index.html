@@ -273,5 +273,6 @@ Garantia de 7 dias
 </footer>
 
 </div>
+<script>/* repassa UTMs da pagina para o checkout (rastreio por campanha) */(function(){var q=new URLSearchParams(location.search),k=["utm_source","utm_medium","utm_campaign","utm_term","utm_content","src","sck"],keep=[];k.forEach(function(n){var x=q.get(n);if(x)keep.push([n,x])});if(!keep.length)return;document.querySelectorAll('a[href*="pay.kiwify.com.br"]').forEach(function(a){var u=new URL(a.href);keep.forEach(function(p){u.searchParams.set(p[0],p[1])});a.href=u.toString()})})();</script>
 </body>
 </html>
