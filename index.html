@@ -37,10 +37,11 @@ fbq('init', '2345836776151262');
 fbq('init', '2233339330897372'); // pixel da conta de anúncios da Izadora
 fbq('track', 'PageView');
 fbq('track', 'ViewContent', {content_name: 'Minicurso Empadão Goiano', value: 79.90, currency: 'BRL'});
-// clique em qualquer botao que leva ao checkout da Kiwify
+// clique em qualquer botao que leva ao checkout da Kiwify: conta so no pixel do site.
+// O pixel da campanha recebe o inicio de compra da propria Kiwify, ao abrir o checkout; contar aqui tambem duplicaria.
 document.addEventListener('click', function (e) {
   var a = e.target.closest && e.target.closest('a[href*="pay.kiwify"]');
-  if (a) fbq('track', 'InitiateCheckout', {content_name: 'Minicurso Empadão Goiano', value: 79.90, currency: 'BRL'});
+  if (a) fbq('trackSingle', '2345836776151262', 'InitiateCheckout', {content_name: 'Minicurso Empadão Goiano', value: 79.90, currency: 'BRL'});
 });
 </script>
 <noscript><img height="1" width="1" style="display:none" alt=""
