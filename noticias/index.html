@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Notícias de culinária · A Senhora Empada</title>
+<meta name="description" content="Notícias de culinária e gastronomia atualizadas todo dia, e a Senhora Empada na mídia.">
+<meta property="og:title" content="Notícias de culinária · A Senhora Empada">
+<meta property="og:description" content="Notícias de culinária e gastronomia atualizadas todo dia, e a Senhora Empada na mídia.">
+<meta property="og:image" content="../img/hero.jpg">
+<meta name="theme-color" content="#2d170c">
+<link rel="icon" href="../img/selo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../estilo.css">
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2345836776151262');
+fbq('track', 'PageView');
+</script>
+</head>
+<body>
+<header class="topo"><div class="envolve">
+  <a class="marca" href="../"><img src="../img/selo.jpg" alt="">A Senhora Empada</a>
+  <nav><button class="abre-menu" aria-label="Abrir menu" onclick="document.querySelector('.menu').classList.toggle('aberto')">☰</button>
+  <ul class="menu"><li><a href="../">Início</a></li><li><a href="../curso/">Curso</a></li><li><a href="../eventos/">Eventos e aulas</a></li><li><a href="../noticias/" aria-current="page">Notícias</a></li><li><a href=".././#lojas">Lojas</a></li></ul></nav>
+  <a class="botao pequeno" href="https://wa.me/5562993696402?text=Ol%C3%A1%21%20Quero%20fazer%20uma%20encomenda.">Encomendar</a>
+</div></header>
+<main>
+
+<div class="capa-interna"><div class="envolve">
+  <span class="sobretitulo">Notícias</span>
+  <h1>Culinária, gastronomia e o que anda acontecendo.</h1>
+  <p class="lead">Uma seleção atualizada todo dia com as notícias de comida no Brasil e em Goiás. Cada uma abre no site do veículo que publicou.</p>
+</div></div>
+
+<section style="padding-top:24px"><div class="envolve">
+  <div id="noticias" class="lista-noticias" data-src="noticias.json" data-max="18"><p class="vazio">Carregando as notícias…</p></div>
+</div></section>
+
+<section class="faixa-papel" id="na-midia"><div class="envolve">
+  <div class="cabeca"><div><span class="sobretitulo">Na mídia</span><h2>A Senhora Empada na imprensa.</h2>
+  <p class="lead">Reportagens, programas e guias em que a Senhora Empada apareceu.</p></div></div>
+  <div class="lista-midia" id="midia"></div>
+  <div class="mosaico" style="margin-top:36px">
+    <img class="a" src="../img/entrevista.jpg" alt="Gravação com repórter na loja da Senhora Empada">
+    <img class="b" src="../img/equipe.jpg" alt="Equipe da Senhora Empada em evento">
+    <img class="c" src="../img/balcao.jpg" alt="Balcão da Senhora Empada">
+    <img class="d" src="../img/trio.jpg" alt="Empadas no prato">
+    <img class="e" src="../img/fachada.jpg" alt="Fachada da loja">
+  </div>
+</div></section>
+<script>
+fetch('midia.json',{cache:'no-cache'}).then(function(r){return r.json()}).then(function(lista){
+  var alvo=document.getElementById('midia');
+  if(!lista.length){alvo.innerHTML='<p class="vazio">Em breve: as matérias e programas em que a Senhora Empada apareceu.</p>';return;}
+  alvo.innerHTML=lista.map(function(m){return '<a class="cartao" style="text-decoration:none" href="'+encodeURI(m.link||'#')+'" target="_blank" rel="noopener"><div class="corpo"><span class="etiqueta">'+m.veiculo+'</span><h3>'+m.titulo+'</h3><p class="meta">'+(m.data||'')+'</p></div></a>'}).join('');
+}).catch(function(){});
+</script>
+
+</main>
+<footer class="rodape"><div class="envolve">
+  <div><h4>A Senhora Empada</h4><p>Empadas e empadão goiano feitos à mão em Goiânia, com a receita da família desde 1990.</p></div>
+  <div><h4>Navegue</h4><a href="../curso/">Curso Empadão Goiano</a><a href="../eventos/">Eventos e aulas</a><a href="../noticias/">Notícias</a></div>
+  <div><h4>Fale com a gente</h4><a href="https://wa.me/5562993696402?text=Ol%C3%A1%21%20Vim%20pelo%20site.">WhatsApp (62) 99369-6402</a><a href="https://www.instagram.com/asenhoraempadagoianaa/">Instagram</a><a href="mailto:asenhoraempada1@gmail.com">E-mail</a></div>
+  <div><h4>Lojas</h4><p>Jardim América<br>Vila Nova<br>Goiânia · GO</p></div>
+  <p class="fim">© A Senhora Empada · <a style="display:inline" href="../privacidade.html">Privacidade</a></p>
+</div></footer>
+<a class="zap" href="https://wa.me/5562993696402?text=Ol%C3%A1%21%20Vim%20pelo%20site." aria-label="Falar no WhatsApp"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3a13 13 0 0 0-11.2 19.6L3 29l6.6-1.7A13 13 0 1 0 16 3zm0 23.6c-2 0-4-.6-5.7-1.6l-.4-.2-3.9 1 1-3.8-.3-.4A10.6 10.6 0 1 1 16 26.6zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7 0a8.7 8.7 0 0 1-4.3-3.7c-.3-.6.3-.5.9-1.7.1-.2 0-.4 0-.5l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.7 3.7 0 0 0-1.1 2.7 6.5 6.5 0 0 0 1.3 3.4 14.6 14.6 0 0 0 5.6 5c2.1.9 2.9 1 4 .8a3.4 3.4 0 0 0 2.2-1.6 2.8 2.8 0 0 0 .2-1.6c-.1-.2-.3-.3-.6-.4z"/></svg></a>
+<script>
+(function(){
+  var alvo=document.getElementById('noticias'); if(!alvo) return;
+  var max=+alvo.dataset.max||18;
+  function quando(ts){var d=new Date(ts*1000);return d.toLocaleDateString('pt-BR',{day:'2-digit',month:'short'});}
+  function esc(t){var d=document.createElement('div');d.textContent=t;return d.innerHTML;}
+  fetch(alvo.dataset.src,{cache:'no-cache'}).then(function(r){return r.json()}).then(function(d){
+    alvo.innerHTML=d.noticias.slice(0,max).map(function(n){
+      return '<a class="noticia" href="'+encodeURI(n.link)+'" target="_blank" rel="noopener">'+
+        '<span class="meta">'+esc(n.fonte)+' · '+quando(n.ts)+'</span><h3>'+esc(n.titulo)+'</h3>'+
+        '<span class="meta">Ler no site do veículo ↗</span></a>';
+    }).join('');
+  }).catch(function(){alvo.innerHTML='<p class="vazio">As notícias aparecem aqui em instantes.</p>';});
+})();
+</script>
+</body>
+</html>
