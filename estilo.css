@@ -143,3 +143,26 @@ section{padding:96px 0}
 @media (max-width:900px){.abertura figure img.selo{width:92px;height:92px}}
 .cartoes.dois{grid-template-columns:repeat(2,1fr)}
 @media (max-width:900px){.cartoes.dois{grid-template-columns:1fr}}
+.abertura{position:relative;display:block;max-width:none;padding:0!important;margin:0;min-height:88vh;overflow:hidden}
+.abertura figure{position:absolute;inset:0;margin:0}
+.abertura figure img:not(.selo){width:100%;height:100%;aspect-ratio:auto;border-radius:0;object-fit:cover;box-shadow:none}
+.abertura figure img.selo{display:none}
+.abertura::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.72) 0%,rgba(0,0,0,.35) 55%,rgba(0,0,0,.05) 100%)}
+.abertura .texto{position:relative;z-index:2;max-width:var(--max);margin:0 auto;padding:18vh 24px 10vh;color:#fff}
+.abertura .texto h1,.abertura .texto .lead,.abertura .fatos b,.abertura .fatos span{color:#fff}
+.abertura .texto .lead{max-width:560px;opacity:.92}
+.abertura .botao.claro{color:#fff;border-color:#fff}
+.abertura .botao.claro:hover{background:#fff;color:#111}
+@media (max-width:900px){.abertura{min-height:92vh}.abertura .texto{padding:16vh 24px 8vh}.abertura::after{background:linear-gradient(0deg,rgba(0,0,0,.8) 0%,rgba(0,0,0,.35) 70%)}}
+:root{--creme:#0e0e0e;--papel:#161616;--cacau:#f3efe8;--cacau-2:#d9d3c8;--terra:#c9a45c;--terra-2:#b38c43;--ouro:#c9a45c;--linha:rgba(255,255,255,.12);--suave:#a39d93;--serif:"Oswald",Impact,sans-serif;--sans:"Inter",system-ui,sans-serif}
+body{background:#0e0e0e}
+h1,h2,h3{font-weight:600;text-transform:uppercase;letter-spacing:.01em;line-height:1.02}
+h1{font-size:clamp(48px,7vw,104px)}
+em.serif{font-family:var(--serif);font-style:normal;color:var(--ouro)}
+.topo{background:rgba(14,14,14,.86)}.marca{text-transform:uppercase;letter-spacing:.06em;font-size:18px}
+.botao{border-radius:0;text-transform:uppercase;letter-spacing:.12em;font-size:14px;padding:16px 28px;color:#0e0e0e}
+.faixa-escura{background:#1a1712}.faixa-papel{background:#141414}
+.cartao{border-radius:0;background:#161616}.mosaico img,.curso img,.historia img{border-radius:0}
+.etiqueta{border-radius:0;background:transparent;border:1px solid var(--ouro);color:var(--ouro)}
+.rodape{background:#070707}.preco{color:var(--ouro)}
+.faixa-escura{color:#f3efe8}.faixa-escura h2,.faixa-escura li{color:#f3efe8}.cartao h3,.cartao p{color:#f3efe8}.lojas .cartao p{color:#a39d93}.capa-interna h1{color:#f3efe8}.vazio{color:#a39d93}
