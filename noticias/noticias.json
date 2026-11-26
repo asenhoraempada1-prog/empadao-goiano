@@ -1,131 +1,131 @@
 {
- "atualizado": 1795516139.017195,
+ "atualizado": 1795687364.180118,
  "noticias": [
+  {
+   "titulo": "Moqueca de grão-de-bico: aprenda essa receita vegetariana para o almoço de sábado",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmFtOWlpLUVVZnRkRXpLTnYyeVhXM1B2Q2hTS1FpWkVMTldtblZVN1hyMmJqNXhTSlR0N0Q3MlF1d1NSNXVpeUttSExCYXpyS29vOWRHcnJ6NEdSNDJDQk96UHZNSnpONVQxTXpvMVhMRzNTVDZ2Q01sX2ZKaHdodVZLcVFtd2ltblM1SWwzaG5TLUUzRmtHQ1g4OWJ1bElGd1RJM29TS3JpRlg4Ry1Ndk1iM2U4aHJSalh0OU54SUhnZHYzd29sQWo2N0tUdThQOXlCRHJabUpkMmFwOHU3RjM2OFB6NUpsYm1UMV9jeGo4LVhkOUhkNw?oc=5",
+   "ts": 1795680328.0,
+   "tema": "culinária brasileira"
+  },
+  {
+   "titulo": "Pirenópolis, Corumbá de Goiás e Cocalzinho de Goiás firmaram uma parceria para criar roteiros turísticos integrados na Serra dos Pireneus. A proposta é incentivar visitantes a conhecerem mais de uma cidade durante a mesma viagem, movimentando pous",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8temMzTDQ0UnN0a3o5M29QazA4OTZYb1pJVzRnZEJuU0ptaFZVQ1M4ekZRT2gxeXJLbnprZXFBd051cHBDNDBvX1ZyN2Q1M1lnbVE?oc=5",
+   "ts": 1795680152.0,
+   "tema": "gastronomia Goiás"
+  },
+  {
+   "titulo": "Dos palcos para o 'Guia Michelin': como um ex-bailarino brasileiro se tornou um destaque da gastronomia de Viena",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZGVUcmE5cXBfakRadnFMLVVJb0FHQ29JYnF3d3NHc0lZSnd0T0V4UGc3XzJZUUI3ejFqV1loc2RFUklwS3ZMUUo0ckw5Z2FWRmtRdmhLazU2ZzJBQ1YwY3ZCM0x4WEtmTDcyQlA0TFE5YmY2bDJtTmdZMU92bkE4N3MwVWV3WDV6S011YXA3SktRMTEwbUh0ai1Lc0RTVzRvdlB6d1k5alFnYUt4NUhEQ0I5TlJWaWw2MTZRMEJET3JocVY1S0V4elhON0tSWlBqQzBKa1JubEpUcUdDOUlraC1reHNZcTNUYWxvb2ljcXZkTVh3NGNXOE8xM1ZNa1XSAY4CQVVfeXFMTXF0VHBXeFBQSTBobFhyWHZKQU9oMkU3RWVyZVBBM2p1SzJzMHhqMTY5WlJ0Rko2c0ZDSVBWcWV0ak9QZkZVUy01SDRFTDY1YjRSX2gzTXpsNHBhQ2pibXo3azJ6TDBLYUhhV0VkU2tTXy0yTzJfMk1tQmhLbFRocktETk9uM2RlOU51WlFoN1ZzOVZqd28zWE4zN25aMUdyQTBiTFF1Q2htSEt5ZVNLX2pMMk0yY0U5T01xUkl5eklid2ZYeElKWVUxRmhrVF9xMEV0ZDFfXzFQTll0NnViUUpzZGZ6OFZPQnVPUVRVVkxwamVjQ0FCdXNyd25xcWhjajVTRFRxTTBMXzJuajV3?oc=5",
+   "ts": 1795672800.0,
+   "tema": "culinária brasileira"
+  },
+  {
+   "titulo": "O novo restaurante do Bairro Alto os pratos são todos feitos com produtos portugueses",
+   "fonte": "NiT New in Town",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0cySmJlSElVSnE4U3ZsdUpwUEJVeU9rTlNKalV1TEtMeWwtMXN0ZVlTRlowSXRpcWNHaDRMMU1YZG5ZcHhnc1RpTXM2TDlfQ1JaVVljRmJrdjRVNWNMTkt3ME1TZFdkUnk4RHpjaFVSRlZoZ3JzU3pMQnV0OTJkNkIxLThSN3psWlNmVGVLcFd0MDIyRUpqSmpLZUNqeFZUWkUw?oc=5",
+   "ts": 1795672140.0,
+   "tema": "chef de cozinha restaurante"
+  },
+  {
+   "titulo": "Conheça chefs negros que estão transformando a gastronomia brasileira",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTRmVmphZ1M0ZHpSeDRoRTNnbE5YVHczWXJDczhCb2otTTBoX3RVd25KcEo1aGhkLVZhY1A4NXRwNWhzckFMN1dIMm53b0ZYNExuanZlZ1hWeWllUWphVDhBWjFya2F1eWwwMUNEc29MZlZLTjFRVlhBMWdKM1BpV21laUhPNzJmWlJ5Y1lPZUlxemhpX2dWa1Y3d0gtbGVxTUdJQTBLNXlYWlktYXZCTkZB?oc=5",
+   "ts": 1795668635.0,
+   "tema": "culinária brasileira"
+  },
   {
    "titulo": "O chef português que transformou bacalhau em hambúrguer e sonho em prato salgado",
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORV9rejlKU1JtbkZvY0t4Wi1EcHFfUUlyeS1DZG1ULWNobmR5STJyUVF0RGVhVG9VdjdnQzNKX0YyQmp3Mm1RZEtBWjUxc1Vhd2hOWlBhXzk2ei00SmJMX1A1ZlBkN0puTTR0d2pjOWxERC1rTEhJdmdJN25FSFp3NHFkdDRDcUNKOEdJQnJqazlXazhqelZ0d05DYVpYMjg2TE5GQVpxUHZXUS1RTlZqN0szMWE0ZFI3TWZVYXpLR2VBYWhFRVHSAcsBQVVfeXFMTVZxQ1NodFBLZTVhaEpIRDVTTGc5RmZpUFJxRFBrTW4zemdPa21yV0FkVUtyLTRwSHNaWjdrUFF0cm04cWU0cUhWZGNoMVM2V2NjNnFma1hPVHg4UWs5TVctQjBETEZNa3pHVnZ3a3NsYzc1bXY0MWx1amp6YUhCREIwSnp3ZWZMY2lSalNRTjIwb0d3OWhNZGZxV2ZNaWRzVGVvTTRYWndRcFg1NHhScVF2N3I3NElZTnFkZzVUbjBuSDNzLUhHREVHN0E?oc=5",
-   "ts": 1795490636.0,
+   "ts": 1795647350.0,
    "tema": "chef de cozinha restaurante"
   },
   {
-   "titulo": "Robb Report Food Awards 2026: Evvai é eleito Restaurante do Ano",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUJBU1lKNDJxNVQ1LWpBWDBSaTVJLVRLMFVvcFB6U3FXQ29GSGN2aldpUnkzcGdiVjBEU3A2MEZhTXFNNWw1UjF0aUtiZzRFc05iYVlPYWdwb3FMdVFuN2pLdnJ0S0xMMW1BdWg4RWVsX2d2TTBPSlRSZng1TW1PX0NqVnAyWFhkMHlxOVpraDh3NG81Qk16WHYyRHhFdExNVl8xTWhMMWZpTnY0T240LXR1RXBibEFIbW1Sb0ZWa1E1UFpxN1dyaWZnNFJZdFBFYVY5WmJYUDBVZw?oc=5",
-   "ts": 1795475161.0,
-   "tema": "chef de cozinha restaurante"
-  },
-  {
-   "titulo": "10 menus executivos para fugir do almoço de sempre em Goiânia",
-   "fonte": "Curta Mais - Goiânia",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVDFRWC1aTFQwTFc0Q3pNUXFyMGh4TVV3ZWRfZDc4Z3FieFg2dG5IU0IyQ0xYT3pLMVlHdDVhYm9MdFlnZnNmbjdQLUUyVGdrZTNUQ0s4MnNJQzVxLXlzYmRvSVJvOGY0M3lKVTVMczE?oc=5",
-   "ts": 1795474024.0,
-   "tema": "gastronomia Goiás"
-  },
-  {
-   "titulo": "Empreendedora do Vale do Aço se destaca em projeto do Sebrae Minas",
-   "fonte": "vox97.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzVMcTJDOFhNYndqd0hSNHQ4RXBhSVIxX29MNHlfWlJkMkJXanBNamZMVDdvRWJWdjB6SC1Qa1ZUb3ZodzRhdGFDZVFwX2FhMWZBTVFSY3g5UTRQVEFWeGVKc3hJLU1nVWRkWXRaQm5VUmtlbTRuaFpKZ0U5eUh4WGdKMG9CUy0wWXh0dWYxUlJvS0NhanVOSC04N3NMeGFfZTdN?oc=5",
-   "ts": 1795470640.0,
-   "tema": "culinária brasileira"
-  },
-  {
-   "titulo": "Jacquin se despede do foie gras com semana especial em São Paulo",
+   "titulo": "Janaína Torres: ‘É na escassez que se cozinha com o coração e com humanidade’",
    "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEtsVE13Z0hXNzNNLW81YzJpSXRoTnJyei1Bd1NRRl9fMnF0dGN3UnRRVG5ZNDNKbkZ5RHptYWFvM0FTSTZFM1dHWmdXVVBzZ2J5b3NSc19YZkpMUHgtTWZmVjcwQ2ozdVZCcVQ0ZFVLWnZTVkVOZ1BhTFBQRnQyS2FIM2k0dTUxc2xreER4bUo5SVl6c3hSTnNoQUtsamU0a1ZZU25IWVVMNGxoeFVtME55TWk5eEMxNEV5dlVR0gHDAUFVX3lxTFBjNzBiMjNnRjFfQ3pid0VlYUdhYXMwamVNbmpCaFd2akV0Wml5c0JSMjVIeWF0ZUFKczBjMU9COW9sSGxxTW4tdGxIbUh2QXV6VzBhSkRJVFA5MlNyZG1jejVqcG5VSkZsbGk5MXd5QmRGS2ctelVqd1NpYWJfanA2a2o0OTcxcEZjV0Z6QkhOLVF3NWZ4VWxNdkp6NDNpOFVHUkZ4dWtIcU83MjFjbFpBbDdnUE9ZeTdCcGpEWGVEUnVIVQ?oc=5",
-   "ts": 1795470051.0,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOek94THZUa0ZXSU5hQjRMSDk1NHZGcmYzU2FGc3B4QUU3aWRXWmw2MzN2LVlRQVBTRXZWOXRXY0J6VC1jbENhZUlocjk4TmhjdkFXY25PaVdZTGJQbjJhbzNoU2sxQVdCU2dpNHZwcW1HVFZMRTlQYlNuM3hYb0NBUzN1V1hBTXpHakF1dGx1UUduMVFHTGViT2pSVVZDQXJVcG1FZFktOFVZNFYzUVZB0gG0AUFVX3lxTE4tSFNEMEpXRU5FWGhEYTRVV0NfNTV4UFBtRHhuSlRLSHRVV2tSVk1mbmpCQl9TTWFrbmFrWm52R1BUeXFQOTV1T3AtS1VJMmZyNm02Yjk2bGxUUDcwSFdudHF1M0loZDcwSDE5RWxSemVKVGNYdWFsbk5INUZkdEZ3NUczOGw1amxQTHk0bV9UWmZyNXM5dUZ0Tlp4Y1Z0bFJhN3o3RGR6QUNneFB4ODY0NUcxOA?oc=5",
+   "ts": 1795644169.0,
    "tema": "chef de cozinha restaurante"
   },
   {
-   "titulo": "Cidade de Goiás reúne gastronomia, Mumuzinho e Zeca Baleiro em festival gratuito",
-   "fonte": "panoramagocomunicacao.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjFCWEJCTzFZRDhETEpsVUVyQlNtRWJTUE5ZemhSVWM4SzhkTFAzamYyT2o3dHZwVEVzc185Z0FCb29QaE1kQjRwUWFYWk00eW51RHZHTDEtZ1dSNHhudnpkQ1Y2UUUxendVYnp1R1daN1BndHZEWFVid2UzYnNhVEJsdGl4bERDR04yd2N5TXpfelFBVTlYOWYwTGMyS29KdmVsZ0tzbGJFNDlkbGtTeE9iOVVUVk5i?oc=5",
-   "ts": 1795462765.0,
+   "titulo": "Festival gratuito de cultura afro-brasileira terá seis horas de programação em Ribeirão Preto",
+   "fonte": "Revide",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX2NUSzNjRWVpcU5qanFsVDBROXlySWtEN2J4MUVWaC16LTVMVnpsT0czYTJDdl9CX1dXVTRCMXNqSGRrcEVMRjgtNE1KNkx1bHRmUEFremZXY3hPUkRrVHZrSnE2czN2S2lkN3NrV2IzN3lWVHc3X1B3T2lnSTRfemZKeE95RGdSdk9vUEh3d3BjVXlBbnJkcHVSc01NLUJfWFhqMTFSSEtSQi14d3RHNXJRc0MzNHpFa1RWQTdsV2ctR2pLUG9oSUJ6WU5la0djanJr?oc=5",
+   "ts": 1795640400.0,
+   "tema": "culinária brasileira"
+  },
+  {
+   "titulo": "Castro’s Park Hotel: sonho que quase ninguém acreditou completa 40 anos",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ2JuSzBMeWhMbWxvcDRObThpN283MWNvY1BOZ24tYlpnZGJmeDJyZDJrU0lJRjlLNXhCZWdHNXhUMmYwc19wSlplQ1FKeEFtNnRneGRyd0R0UzBOdDdRQnVWaWtqVkxwQ1BUdEhTQktzWVpOTmpoaQ?oc=5",
+   "ts": 1795639680.0,
    "tema": "gastronomia Goiás"
   },
   {
-   "titulo": "Adriano Rondinelli divide a cozinha com mais 3 chefs para celebrar 2 anos do Tui",
-   "fonte": "Portal Zumm",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0ZkUTFfNk5NRllUYnc0Mm5PbElqWHVabS1LdE5VN3lXbzB3LUJxbldwaVJsbHJ6N3pnMXJLcFNzVXdJT2c2dWxJR1o5c2ZYd0oydmgzYjRQMmJqQjVMLWxEdGZrWGpFNVlOSTdDNHk3MUhHdWlFV0ZaOHFkWU84Yml5TWZ4WmlaRmJoRzhBN2lLOUVxS1RJSFk4Tkx6ZmdENk55WDdFM2htTU0?oc=5",
-   "ts": 1795462393.0,
-   "tema": "chef de cozinha restaurante"
-  },
-  {
-   "titulo": "32ª edição da Rio Restaurant Week: passeio pela diversidade culinária brasileira",
-   "fonte": "Agenda Bafafá",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05BUWJ6VE1fMTh0bXBXc2plZEdVZlVJS0d1VGgwenVydXBRTkFGMENzMHdkWGlBSHoyWGE5bWx6NDFDRXVYVjEzaC1ackIzaW8zUDFGMUZlS2xNcTVKSC02NzdQODc3cThJTElEdmpZbVcyQU1CQVVOSjhtNlN6RnctWklKZVIyaVFRZHlNUm5SU09UZDFxSV9qNlNtSGZhUzM5YmtxRk1uSTBaelNiTUp1bjV1YklrZGVVUQ?oc=5",
-   "ts": 1795460592.0,
-   "tema": "culinária brasileira"
-  },
-  {
-   "titulo": "Hortolândia terá oficina culinária gratuita nesta terça",
-   "fonte": "Portal Hortolândia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0JCeXFNVTNLeGhsalpsWmhBcUdGLXF4LWRHdmZQY1BsMXpyUDE2bzVHYkNYZ1NMSXJpWHZQV2N5d2F4UjV5ZTFTdlFHa3o2T00yb2dFR1d5SGRmUmdXOElZYThmeG1JczN5WXRwWGlaNHp2Zlc3bVNMT1ZzVXhhZktpenRfQnBGTU9OOGNOSE1BOGJncjZKemFwN3ljaklnZlNaVGx1NXY2REtY?oc=5",
-   "ts": 1795459520.0,
-   "tema": "culinária brasileira"
-  },
-  {
-   "titulo": "Ivan Ralston é eleito Chef do Ano no Robb Report Food Awards 2026",
-   "fonte": "Robb Report Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVEY3Yms3OUJtNU5PcHptendfal8wc2tTX2tyYUdfcWN2ZGZGemhlZTZqMXB6SVh6U25iSndtRDhtOUV5aXp3VWxiNmF5YWExVDBDWWZrWTNmX01NQTZLSUFZRkdjZkNHOWZsQTVGeTdzLVRzZ05STHdpbG9LUUR4NlBiLTBweGlzLW83QlMwX0cxcDQyQkJxU0Y0WWZ6VXNNYTNBYkJGdDJFUFdXbEc2eEpVenNOWFpVSmcycS1wOGpJUlJ1X05fNnd0Ylg0RjNfYmNaVXVrOA?oc=5",
-   "ts": 1795457941.0,
-   "tema": "chef de cozinha restaurante"
-  },
-  {
-   "titulo": "Brasil tem 17 restaurantes entre os mil melhores do mundo no La Liste 2027",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkJycUZ2RnozSUFmSTJobFg2QkpmLVBWN2paZmpGVklpWnFLT3dLdlptZi1Ic3QzbnFjSUdTTE9QTDdrMHJOYkVmbF9WTjNLUDBvdW5YUjNCVDdJdjhSSEs1SzBMZm1BWWRjRXN5OHluQUNqaEtoLVgzYk9WYXMyM1dSYUsyQ0dBalpOZGFxU2lQWm9WYm5zVmdyOEE2cXRtTmlIR2pVLUU3XzdweXBXOTlENDBIR3VuaEwtb09Sc2lvTTBLanVWS2tieEZoaWhn?oc=5",
-   "ts": 1795456241.0,
-   "tema": "chef de cozinha restaurante"
-  },
-  {
-   "titulo": "Goiânia é recomendada por 98,2% dos turistas que a visitam",
-   "fonte": "Curta Mais - Goiânia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZWTEwQXJPS3pfRjhMVXZMZ2s0Z3p1YzdLbEpndG13cUVvbEdvcHVzYmp5YlRkRDJlNVJUQWhRc0VROWFXUm91NlU4VEJHT3RSSC1kM0MzUW9KTUZ5cElIVDl3S2lOUVIyc3BSQ2NZSF8xcUFZMUxiRE1uUQ?oc=5",
-   "ts": 1795453774.0,
+   "titulo": "Niterói inicia Festival Gastronomia do Mar com aula da chef Flávia Quaresma",
+   "fonte": "GiroGO Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZHJ5YTNhbm5KcG9lSTF6QjdWN05FQmRuRnZBT0N5MGk1cUNjOFFiSUg0LUVxRTZDS1pHNHJRN3dsRVZCQUstNnBrLURPTV91Qjllc2w0YTE3OFhWLURGWXZ2N2d3SUNqZExMSDBEZnRKRnFzMExqR2NoRFJ5dkRRZ0FIcGVjbXhITkNtc3FZczlXTDhXVjhWSUEwenlNNmxoc2hHXzNzc0JlTFBZWU95a2FiMXZ5U01sWG5jSVNZMEQ?oc=5",
+   "ts": 1795639200.0,
    "tema": "gastronomia Goiás"
   },
   {
-   "titulo": "À Brasileira: Chef Janaína Torres é premiada em Paris com projeto que propõe imersão na culinária nacional",
-   "fonte": "Globo",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWUNoNzc4cS14NW1QOGRvQS1Od0VlUkZRendBUzBlSmt1UGRUNE9uMjBVRS01b2FpbVBnaEpzYkVlYVZpc3BkbGZST1UtX21kdjRsVWZyUm1XdnNjTmdVamlNRGRNN1FfMWtkanRGZHJCMy0xY0I5eVFFLU1rTGtnZzN3cTZHblpQTl84VkJuWlMzVTVOMGs0cjgxTTBCdGFSTkh0MjIyVHlDSDNnMEdzV1RvRW9EQkdKNlZEWFV1eUxUY3dGSHdkelBpYzhDNzBmekZ2OUpFVFBWT3R3dThwTVViWTk0c1FEMXp6Z1BHMEFpeklyX2owaEtRMDNnd0VrOG9QMU03TmFwYXhua0xnb1hKQdIBkwJBVV95cUxPWUNoNzc4cS14NW1QOGRvQS1Od0VlUkZRendBUzBlSmt1UGRUNE9uMjBVRS01b2FpbVBnaEpzYkVlYVZpc3BkbGZST1UtX21kdjRsVWZyUm1XdnNjTmdVamlNRGRNN1FfMWtkanRGZHJCMy0xY0I5eVFFLU1rTGtnZzN3cTZHblpQTl84VkJuWlMzVTVOMGs0cjgxTTBCdGFSTkh0MjIyVHlDSDNnMEdzV1RvRW9EQkdKNlZEWFV1eUxUY3dGSHdkelBpYzhDNzBmekZ2OUpFVFBWT3R3dThwTVViWTk0c1FEMXp6Z1BHMEFpeklyX2owaEtRMDNnd0VrOG9QMU03TmFwYXhua0xnb1hKQQ?oc=5",
-   "ts": 1795453173.0,
+   "titulo": "CURSO DE CULINÁRIA VALORIZA A CULTURA BRASILEIRA E INCENTIVA O EMPREENDEDORISMO EM BARRA BONITA - Desenvolvimento Econômico",
+   "fonte": "Prefeitura de Barra Bonita – SP",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQzJuRWM0WXBoTHJsZmowcUU3U0FOTDFIa3VCMzRXaFhDazRMa1ZvcUNFUkU0SzNWaE9QWHhWNGVJX2pwX2JZRF9rbmZoRFlRb2VMSF94Si1PY016LWY2U3ltZko0VDlXZWpGUWRid2k0bmhWMk1yVS1DcnFXZlZtR3ZBdHZLODJIMDBCVEpBTmFWU1lGNjltbDZIaEIwRFhKSS1WLU1jakNzeFYwRFR1amlGY1I2Q1VtTE9xTWFmWWdvWElVTUNndjFUeVowWWk2RFhZVjhTamlZdndPZERDcDNoQkhrX0FnYTdycjEzanlyQQ?oc=5",
+   "ts": 1795635985.0,
    "tema": "culinária brasileira"
   },
   {
-   "titulo": "A cozinha #baiana de Fabrício Lemos (@fabricioorigem) e Lisiane Arouca (@lisianearouca) colocou Salvador entre os destaques da lista estendida do Latin America’s 50 Best Restaurants 2026. O restaurante Origem (@restauranteorigem) aparece na 59ª po",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Da3k2NXFxZFIxOUx4T0lOOElvWFctUjhDTWctTTE2dEFmY0RmMjNNaVVzai1BYUQtNDRyWUdwTWVEb3RYbTZKenRhUEJVdUgxanc?oc=5",
-   "ts": 1795451289.0,
+   "titulo": "Sal é mais prejudicial que estabilizantes? Chef defende aditivos usados em restaurante, mas comparação exige contexto científico para entender os riscos à saúde",
+   "fonte": "Estado de Minas",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPV2pZWFBFRjdYdW42QkM2a0R5emowd1k2ODJhcjlXU1RCR0VpRTFLZmZiTVBNV3lOYk0zRjFDNTlRYzRkVzFZRXVObWVUVGtGZDJ5aExWcVUyM1hXZ3VjZUJxZS11dldha0lNYWY3ZXpsSVNFNGFtbEE4SzZVVXBjaEo3UVlkMGJwa1dIOWV1MVZSZHdVemRsRlFBWVppeV9vRlJtY296SnNzRVRoR203QVNvY1gxb3d1YU80VlEybVNoWmZuNkpseHdLc1lpcS0ta09nZ0Y1cGQ1LTR4UjMyUTh3U3FUdjdnb0xsWjB4ajh3Y1RxU2tWTlRONWFKOTdHTVA1Z1Y3MWhPaUNjZWc1MjQ0dEZfdnVfVnFYYVc0TFQtV0prNkozbVJaY2VjX1pvQkdR0gG4AkFVX3lxTFBMZlRvalI4UHZGbFFiNGFTb2pmNjhSVDdEdUVWT2diRzVVc1hPeW1zMnNUYTE1MU41WVhMVzM2ajVPY1ZvVVh4Skk5RkZrOFhsUzByOS05cjlzNkhuSGxHUTBsbk9kb2NmSVZOdUx6NkYzM2pZT2k5VGNjcGlsdG5GR0VESjRjM2VOXzZKNXF0MnRzLVRvdkhja2xCLXAzejktNjdVb2pSWmlMSG5yczRxSEF1RlRXUXFxZDR1SHMwb3VNWUgyeXZwa3VHSWlXRktweGFpdWZiaFQ2Z1EzWnJ2Vm1mMGRSTXA1d2JPcjAzYzI5eE5QNTNPNkYwcENHUEI5aDlPamhTWFZKY3lfaExqYTAyUW9yM3M4ajRVRGVXOVotY2lZY0xUejBla0xDeERDQ1ZhM3VFQQ?oc=5",
+   "ts": 1795632540.0,
+   "tema": "chef de cozinha restaurante"
+  },
+  {
+   "titulo": "Banquetaço abre o verão no Cauim Praia com Chefs Renê e Filipe",
+   "fonte": "Revista Hotéis",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSklEMGNOcW1ReDJ4N3FoZ3lCTzFQMnFmSmRWOE1MNFRIbUdZNnFUTlVGVG5XTXptRlVaTHJId3k0b1hPak9nZ3g0SHRRQV9KZXJsZ3VUN21fbmVaQmwwWVZBczgzb1RxeFYtS2l6MmkybGhodjkxVXpXbHdtWWhHTlJFQk1SZW9tQTkxOG1xVDFJVDNHbDNz?oc=5",
+   "ts": 1795631580.0,
+   "tema": "chef de cozinha restaurante"
+  },
+  {
+   "titulo": "A jornada culinária de Kwame Onwuachi – CBS News",
+   "fonte": "Segunda Base",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2tqSkNwWXhnYU5DaFNtQWhra0pUZVo3ZUJCQ1AtejNxUktzZnU4ektiLURveXg5cWp2WmNnWHIxUUd3VUVTaHlQU0lNWFBUbzYtN3dmUVotcFl3Wkl3dXJkRzZidEpRczhOenplM25jVnUteV9uUHJoNGNYN2RTYncwRHBXSnpPQmFoT1RQZ29rakFHaFc2Z2NtdkRFaE0?oc=5",
+   "ts": 1795630368.0,
+   "tema": "chef de cozinha restaurante"
+  },
+  {
+   "titulo": "Francis Mallmann, chef: 'É por isso que coloco limões em todos os meus restaurantes, porque para mim, o limão é um símbolo de alegria e esperança'",
+   "fonte": "Rádio Itatiaia",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeEhON3NJWThwTU5ycXJHWXBwSGJyMDFZblVSV1dZV3dQM3dkYU40Ml9QUVlqZmItZU53Z1ZXSFZ6UzJ3VzZFVEZHaXJQeUR6V3BGVjNkZTl0dFhKalk5ZXRLcXpBSGFBZm9xTlJqV1Exa21sTTJPOEpwbVp1a3cwUXVwTmlodVVOc3FKTmtPU0E3Q04xSmRJUFBncEtJZVhvM3JmRTR5WHQtUFZjSkNRZHRwdXJCNldVUWZIQ01DejlHcVpqOXBIWEI0aXAyRV9pTDhhRk5tSnJJaDJuNEUyRmtCNWQtbi1OaXV0T0F4NDBTWmwxeG1FQkI5MWtTc1plUlh1TlVlMA?oc=5",
+   "ts": 1795629929.0,
+   "tema": "chef de cozinha restaurante"
+  },
+  {
+   "titulo": "Chef brasileira recebe prêmio por projeto que investiga gastronomia nacional",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFNWQU0wR29fVlY2cWgtUE9LTDRiWS15eFZEb2E2U2d0Ny1tMEtsTkhlTWhlX0k3cXVZeW51QnBJZm1vNHR3U0dnV0V0OHl3MEt5dkQtWHVqVXhQNkQ0NzJjV1FMdEpZN1ZrV0MyQTVZdmpvNFRIRHdmbG5tYjhTUFJmM2gwc1ZlS0xzWVNzZGFlQUJDS0ZjWnJaVGdXcks4ZG5MWE1mbHNra2dwTDlwWGNBdlNSUQ?oc=5",
+   "ts": 1795627581.0,
    "tema": "culinária brasileira"
   },
   {
-   "titulo": "Black November na gastronomia de Brasília",
-   "fonte": "Visite Brasília",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSW1MNmpjVVlqNVp0dF9yVXVvR3hmbTJ3VzBaUUV4XzNVTnV6Y3g0c1hVbTBLdlJiWlpXUnRERmVlTi1qX1Q5MUxLN3JHSVQ3RkptaXBXN2RtMjN4ZnRtV0tWdUhjMjQzaFdBTzRFUmpqTXpmVHNmcEw5QmFyQmw2QmxscUZkLU9kNU5rZm5JcFIwTmgzV2hUOGtWM1d5dlNrTXhTNnhQQXJwTWdGWlAwb1Z5VlR3T1ZGaDVYeGZDbWpNWEtTTkVNVHhNa0NHWkhuN2pCTnZPUmZJRkgyYi12a2lSQmRuaDg?oc=5",
-   "ts": 1795448916.0,
-   "tema": "culinária brasileira"
+   "titulo": "Projeto Passaporte para o Mundo leva estudantes de Alexânia à Embaixada da Indonésia",
+   "fonte": "Diplomacia Business",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUZjbzRTM1Vwc01MdEsxaVoyeV9MMlZzT3FfX0FBZ2FTNkZlUW9vNThud2gzSjFFUHhscENVSG8wTlNaN0VBbld4R0Q2dlRNc0dMODgwaUtEY3VyVk5vSTFXT3dlalREU2Joek9BaVVQem01ZzN6cXZFX0FxamkxRGd6V0ZzTFFnTGc2TDNLOEpJakhRb1JaOUo0UU9pa0MzaWdMNEwyMWhJUVdQaEYyNlQ3cEZ1bkZVVFcyUGhpcGhxRXF1TkE?oc=5",
+   "ts": 1795622737.0,
+   "tema": "gastronomia Goiás"
   },
   {
-   "titulo": "Sabores regionais e gastronomia acessível ganham espaço no Brasil",
-   "fonte": "Revista Menu",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzd1Q1lFRGhMaGowdEhpU1hpc1NOY0VhUHluNmZGdE04MmFqUFRYd0pHOFVEcTN4UXo0czFTUmxObjRUU1pyaDRvSU1NWUp2dTUxX0RVcmlDY1BIVE5TeVNDTk1ndmliWUw4bXlfVDdKNFMwVWRSSTZURTdKaWRFVTB1SlA?oc=5",
-   "ts": 1795448391.0,
-   "tema": "culinária brasileira"
-  },
-  {
-   "titulo": "Festival de Frutos do Mar: gastronomia e música brasileira em Rio das Ostras",
-   "fonte": "Agenda Bafafá",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkRzY3JTdHIyR1ZremtiSi1BZ1UydUNmdlVEUm45NXl1dGdqWElCMGpCc0RhMDQ3dlJORG0xSEREWE0zTTFtZ3Yxb2hXVHZiZkh1QjdzME8tVTIyUWJuMmZmdTh6cGwzTWd5bFpManVfZzZBUXRhRmg3Vjg2SGduLXBLMFBMb01JRGtfUFhPN3dPdzNOdGF3aDgwZnoxZnNFS3RseXR0b0xrV3lYNWpYMWlrOXIwVEVX?oc=5",
-   "ts": 1795446144.0,
-   "tema": "culinária brasileira"
-  },
-  {
-   "titulo": "Festival de Torresmo do Quermesse começa amanhã",
-   "fonte": "Mural do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1c4M3U2bGFDeV9RY1V0VGQxb0NUcEdvUmljQ2tGNkFZLXNEQ2N3RkhCckZfeVp3cXBZLTlWeHBqbEQzeXpwWEZuUEdqWWsyNS02bUxWWU95TE9jUEFpR19IY1pObE1KMndxQTVlU0hmVlB6anZ1ZjRma2FFenRxa3Fmdw?oc=5",
-   "ts": 1795443989.0,
-   "tema": "culinária brasileira"
+   "titulo": "O Epur vai fechar. Vincent Farges merecia outra história",
+   "fonte": "Mesa Marcada",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lZ0FzZDRYUXZIdUN4M3Y3b2g1MGdDYXdiLXVIRUVZX0Rpd0RHdXpTNmdJSDZTVDFjUTFNTS1qdG1BZGMySElSeU1IZkNFOWNxMGRPMHpJM1hPT09iSENCM1dhczM5eXZESGh4OVhUZ3NEcEp0dUxn?oc=5",
+   "ts": 1795620035.0,
+   "tema": "chef de cozinha restaurante"
   }
  ]
 }
